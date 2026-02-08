@@ -1,3 +1,3 @@
 
 # put hello binary to bin folder
-go build -o ../bin/hello hello.go
+go build -o ../bin/hello ../TourOfGo/hello.go
